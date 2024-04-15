@@ -1,5 +1,4 @@
 import random as rd
-import random as rd
 a = "abcdefghijklmnopqrstuvwxyz123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 n=5
 for i in range(0,n):
